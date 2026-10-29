@@ -104,7 +104,6 @@ abhi@hackz:~$ █
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhi-Hackz&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=05070C&title_color=3CE88F&icon_color=27C6DC&text_color=E7EDF5&border_color=1A2230" height="165" alt="GitHub stats" />
 <img src="https://streak-stats.demolab.com?user=Abhi-Hackz&background=05070C&border=1A2230&ring=3CE88F&fire=FFD24D&currStreakLabel=3CE88F&currStreakNum=E7EDF5&sideNums=E7EDF5&sideLabels=27C6DC&dates=8B949E" height="165" alt="GitHub streak" />
 
 </div>
