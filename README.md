@@ -3,7 +3,7 @@
 <!-- Typing intro -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=900&color=3CE88F&center=true&vCenter=true&width=650&lines=Abhishek+Bhaskar+%C2%B7+Abhi+HackZ;Security+Analyst+%26+VAPT+Engineer;Bug+Bounty+Hunter+%C2%B7+CVE+Researcher;Find+the+breach+before+it+finds+you.)](https://abhihackz.com)
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Abhi-Hackz&icon=5&color=1)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Abhi-Hackz&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
 
 </div>
 
@@ -104,7 +104,7 @@ abhi@hackz:~$ █
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhi-Hackz&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=05070C&title_color=3CE88F&icon_color=27C6DC&text_color=E7EDF5&border_color=1A2230" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhi-Hackz&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=05070C&title_color=3CE88F&icon_color=27C6DC&text_color=E7EDF5&border_color=1A2230" height="165" alt="GitHub stats" />
 <img src="https://streak-stats.demolab.com?user=Abhi-Hackz&background=05070C&border=1A2230&ring=3CE88F&fire=FFD24D&currStreakLabel=3CE88F&currStreakNum=E7EDF5&sideNums=E7EDF5&sideLabels=27C6DC&dates=8B949E" height="165" alt="GitHub streak" />
 
 </div>
