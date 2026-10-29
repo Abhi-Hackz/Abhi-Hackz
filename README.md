@@ -56,14 +56,58 @@ abhi@hackz:~$ █
 | [`SubSpyder`](https://abhihackz.com/projects/) | Shell | Multi-source subdomain enumeration |
 | [`Network-Scanner-GUI`](https://abhihackz.com/projects/) | Python | Graphical host/port discovery scanner |
 
-## `~/cve $ grep -i "critical" disclosures.log`
+## `~/cve $ cat published-cves.txt`
 
-```log
-[CVE-2026-91140]  CVSS 9.6  OS Command Injection          → Progress Software
-[CVE-2026-92931]  CVSS 8.8  Server-Side Request Forgery   → Progress Software
-[GHSA-OpenMage ]  CVSS 9.0  OAuth CSRF (Critical)         → OpenMage / Magento LTS
-+ 10 more CVEs across KendoReact, Kendo UI for Vue & jQuery (XSS, prototype pollution)
-```
+> **12 published CVEs** — credited by Progress Software
+
+| CVE | Product | Weakness | CVSS | Severity |
+|---|---|---|---|---|
+| [CVE-2026-91140](https://nvd.nist.gov/vuln/detail/CVE-2026-91140) | Autonomous REST Connector GenAI Agents | CWE-78 · OS Command Injection | **9.6** | 🔴 Critical |
+| [CVE-2026-92931](https://nvd.nist.gov/vuln/detail/CVE-2026-92931) | @progress/sitefinity-nextjs-sdk | CWE-918 · SSRF | **8.8** | 🟠 High |
+| [CVE-2026-106138](https://nvd.nist.gov/vuln/detail/CVE-2026-106138) | @progress/kendo-react-charts | CWE-80 · XSS | 5.4 | 🟡 Medium |
+| [CVE-2026-106139](https://nvd.nist.gov/vuln/detail/CVE-2026-106139) | @progress/kendo-vue-charts | CWE-80 · XSS | 5.4 | 🟡 Medium |
+| [CVE-2026-106147](https://nvd.nist.gov/vuln/detail/CVE-2026-106147) | Kendo UI for jQuery | CWE-80 · XSS | 5.4 | 🟡 Medium |
+| [CVE-2026-106148](https://nvd.nist.gov/vuln/detail/CVE-2026-106148) | Kendo UI for jQuery | CWE-80 · XSS | 5.4 | 🟡 Medium |
+| [CVE-2026-106149](https://nvd.nist.gov/vuln/detail/CVE-2026-106149) | Kendo UI for jQuery | CWE-80 · XSS | 5.4 | 🟡 Medium |
+| [CVE-2026-106150](https://nvd.nist.gov/vuln/detail/CVE-2026-106150) | Kendo UI for jQuery | CWE-79 · XSS | 5.4 | 🟡 Medium |
+| [CVE-2026-106151](https://nvd.nist.gov/vuln/detail/CVE-2026-106151) | Kendo UI for jQuery | CWE-80 · XSS | 5.4 | 🟡 Medium |
+| [CVE-2026-106153](https://nvd.nist.gov/vuln/detail/CVE-2026-106153) | Kendo UI for jQuery | CWE-79 · XSS | 5.4 | 🟡 Medium |
+| [CVE-2026-106160](https://nvd.nist.gov/vuln/detail/CVE-2026-106160) | Kendo UI for jQuery | CWE-1321 · Prototype Pollution | 5.4 | 🟡 Medium |
+| [CVE-2026-106161](https://nvd.nist.gov/vuln/detail/CVE-2026-106161) | Kendo UI for jQuery | CWE-80 · XSS | 5.4 | 🟡 Medium |
+
+## `~/advisories $ cat openmage-ghsa.log`
+
+> **4 security advisories** — OpenMage (Magento LTS)
+
+| Advisory | Vulnerability | CVSS | Severity |
+|---|---|---|---|
+| [GHSA-grrq-9gq2-vm55](https://github.com/OpenMage/magento-lts/security/advisories/GHSA-grrq-9gq2-vm55) | CSRF in OAuth authorization grants persistent admin/customer REST API tokens · CWE-352 | **9.0** | 🔴 Critical |
+| [GHSA-7j66-6mw7-rgfx](https://github.com/OpenMage/magento-lts/security/advisories/GHSA-7j66-6mw7-rgfx) | Predictable customer confirmation key & password-reset tokens → account takeover · CWE-330/338 | **8.1** | 🟠 High |
+| [GHSA-rqc2-p2h7-6hw9](https://github.com/OpenMage/magento-lts/security/advisories/GHSA-rqc2-p2h7-6hw9) | Guest order lookup rate limiter never throttles a request · CWE-307 | 5.3 | 🟡 Moderate |
+| [GHSA-2p72-3v6m-9p2h](https://github.com/OpenMage/magento-lts/security/advisories/GHSA-2p72-3v6m-9p2h) | Custom-option file download path traversal → arbitrary file read · CWE-22 | 5.3 | 🟡 Moderate |
+
+## `~/bugbounty $ ./hunt --platforms --hof`
+
+<div align="center">
+
+[![HackerOne](https://img.shields.io/badge/HackerOne-abhi__hackz-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/abhi_hackz)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Abhi__Hackz-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/Abhi_Hackz)
+
+</div>
+
+| Organization | Recognition |
+|---|---|
+| 🚀 **NASA** | Hall of Fame · 2026 — responsible vulnerability disclosure in a production system |
+| 🏆 **Nojoto** | Hall of Fame |
+| 🏆 **RepAutomate** | Hall of Fame |
+| 🔒 **Vero VDP** | Bugcrowd · Private program recognition |
+| 🏆 **Progress Sitefinity VDP** | Bugcrowd · Hall of Fame |
+| 🏆 **Chef VDP** | Bugcrowd · Hall of Fame |
+| 🏆 **DevTools VDP** | Bugcrowd · Hall of Fame |
+| 🏆 **Progress DataDirect VDP** | Bugcrowd · Hall of Fame |
+| 🏆 **Progress MarkLogic VDP** | Bugcrowd · Hall of Fame |
+
+> 🔐 A share of engagements are under NDA or invite-only and can't be linked publicly.
 
 ## `~/certs $ sha256sum *.pdf`
 
