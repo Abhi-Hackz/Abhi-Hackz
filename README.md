@@ -13,7 +13,7 @@
 abhi@hackz:~$ cat about-me.txt
 → Offensive security — 5+ years breaking web, API, mobile, cloud, network & AI/LLM
 → 1000+ applications & infrastructures secured across 8+ security domains
-→ 12 published CVEs (credited by Progress Software) · 4 OpenMage security advisories
+→ 18 published CVEs (credited by Progress Software) · 4 OpenMage security advisories
 → Hall of Fame: NASA (2026) · Nojoto · RepAutomate · Bugcrowd VDP programs
 → Builder of SentryScan, SentryScan Mobile & VAPT Report Builder
 → Proof over noise — a finding isn't real until it's demonstrated
@@ -22,7 +22,7 @@ abhi@hackz:~$ █
 
 <div align="center">
 
-**`5+ yrs offensive security`** · **`1000+ apps secured`** · **`12 CVEs`** · **`6 certifications`** · **`8+ domains`**
+**`5+ yrs offensive security`** · **`1000+ apps secured`** · **`18 CVEs`** · **`6 certifications`** · **`8+ domains`**
 
 </div>
 
@@ -58,7 +58,7 @@ abhi@hackz:~$ █
 
 ## `~/cve $ cat published-cves.txt`
 
-> **12 published CVEs** — credited by Progress Software
+> **18 published CVEs** — credited by Progress Software
 
 | CVE | Product | Weakness | CVSS | Severity |
 |---|---|---|---|---|
@@ -66,6 +66,12 @@ abhi@hackz:~$ █
 | [CVE-2026-92931](https://nvd.nist.gov/vuln/detail/CVE-2026-92931) | @progress/sitefinity-nextjs-sdk | CWE-918 · SSRF | **8.8** | 🟠 High |
 | [CVE-2026-106138](https://nvd.nist.gov/vuln/detail/CVE-2026-106138) | @progress/kendo-react-charts | CWE-80 · XSS | 5.4 | 🟡 Medium |
 | [CVE-2026-106139](https://nvd.nist.gov/vuln/detail/CVE-2026-106139) | @progress/kendo-vue-charts | CWE-80 · XSS | 5.4 | 🟡 Medium |
+| [CVE-2026-106134](https://nvd.nist.gov/vuln/detail/CVE-2026-106134) | @progress/kendo-react-layout (Menu) | CWE-79 · XSS | 5.4 | 🟡 Medium |
+| [CVE-2026-106135](https://nvd.nist.gov/vuln/detail/CVE-2026-106135) | @progress/kendo-angular-conversational-ui (Chat) | CWE-79 · XSS | 5.4 | 🟡 Medium |
+| [CVE-2026-106136](https://nvd.nist.gov/vuln/detail/CVE-2026-106136) | @progress/kendo-react-conversational-ui (Chat) | CWE-79 · XSS | 5.4 | 🟡 Medium |
+| [CVE-2026-106141](https://nvd.nist.gov/vuln/detail/CVE-2026-106141) | @progress/kendo-angular-editor | CWE-79 · XSS | 5.4 | 🟡 Medium |
+| [CVE-2026-106142](https://nvd.nist.gov/vuln/detail/CVE-2026-106142) | @progress/kendo-react-editor | CWE-79 · XSS | 5.4 | 🟡 Medium |
+| [CVE-2026-106143](https://nvd.nist.gov/vuln/detail/CVE-2026-106143) | @progress/kendo-vue-editor | CWE-79 · XSS | 5.4 | 🟡 Medium |
 | [CVE-2026-106147](https://nvd.nist.gov/vuln/detail/CVE-2026-106147) | Kendo UI for jQuery | CWE-80 · XSS | 5.4 | 🟡 Medium |
 | [CVE-2026-106148](https://nvd.nist.gov/vuln/detail/CVE-2026-106148) | Kendo UI for jQuery | CWE-80 · XSS | 5.4 | 🟡 Medium |
 | [CVE-2026-106149](https://nvd.nist.gov/vuln/detail/CVE-2026-106149) | Kendo UI for jQuery | CWE-80 · XSS | 5.4 | 🟡 Medium |
