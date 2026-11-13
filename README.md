@@ -1,28 +1,37 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:05070C,50:0D1F17,100:3CE88F&text=ABHI%20HACKZ&fontColor=3CE88F&fontSize=48&fontAlignY=38&desc=Security%20Analyst%20%C2%B7%20VAPT%20Engineer%20%C2%B7%20CVE%20Researcher&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Abhi HackZ banner" />
+
 <!-- Typing intro -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=900&color=3CE88F&center=true&vCenter=true&width=650&lines=Abhishek+Bhaskar+%C2%B7+Abhi+HackZ;Security+Analyst+%26+VAPT+Engineer;Bug+Bounty+Hunter+%C2%B7+CVE+Researcher;Find+the+breach+before+it+finds+you.)](https://abhihackz.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=900&color=3CE88F&center=true&vCenter=true&width=650&lines=Abhishek+Bhaskar+%C2%B7+Abhi+HackZ;Security+Analyst+%26+VAPT+Engineer;Bug+Bounty+Hunter+%C2%B7+CVE+Researcher;32+Published+CVEs+%C2%B7+NASA+Hall+of+Fame;Find+the+breach+before+it+finds+you.)](https://abhihackz.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abhi-Hackz&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
+![Focus](https://img.shields.io/badge/FOCUS-OFFENSIVE_SECURITY-3CE88F?style=for-the-badge&labelColor=05070C)
+![Status](https://img.shields.io/badge/STATUS-HUNTING-FFD24D?style=for-the-badge&labelColor=05070C)
 
 </div>
 
-## `~/whoami $ cat about-me.txt`
+## `~/boot $ dmesg | tail`
 
 ```console
-abhi@hackz:~$ cat about-me.txt
-→ Offensive security — 5+ years breaking web, API, mobile, cloud, network & AI/LLM
-→ 1000+ applications & infrastructures secured across 8+ security domains
-→ 18 published CVEs (credited by Progress Software) · 4 OpenMage security advisories
-→ Hall of Fame: NASA (2026) · Nojoto · RepAutomate · Bugcrowd VDP programs
-→ Builder of SentryScan, SentryScan Mobile & VAPT Report Builder
+[  OK  ] Initializing offensive-security engine v5.0 ...........
+[  OK  ] Loading 32 published CVEs .............. [Progress · HackerOne CNAs]
+[  OK  ] Mounting /hall-of-fame ................. [NASA · 6× Bugcrowd VDP]
+[  OK  ] Arming SentryScan · SentryScan Mobile · VAPT Report Builder
+[ WARN ] Unaudited attack surface detected on target. Engagement advised.
+
+root@abhihackz:~# whoami
+Abhishek Nandkumar Bhaskar — alias Abhi HackZ
+→ 5+ years breaking web, API, mobile, cloud, network & AI/LLM
+→ 1000+ applications & infrastructures secured across 8+ domains
+→ 32 published CVEs (Progress Software & HackerOne CNAs) · 4 OpenMage advisories
 → Proof over noise — a finding isn't real until it's demonstrated
-abhi@hackz:~$ █
+root@abhihackz:~# █
 ```
 
 <div align="center">
 
-**`5+ yrs offensive security`** · **`1000+ apps secured`** · **`18 CVEs`** · **`6 certifications`** · **`8+ domains`**
+**`5+ yrs offensive security`** · **`1000+ apps secured`** · **`32 CVEs`** · **`🔴 1 Critical · 🟠 12 High · 🟡 19 Medium`** · **`6 certifications`**
 
 </div>
 
@@ -56,14 +65,26 @@ abhi@hackz:~$ █
 | [`SubSpyder`](https://abhihackz.com/projects/) | Shell | Multi-source subdomain enumeration |
 | [`Network-Scanner-GUI`](https://abhihackz.com/projects/) | Python | Graphical host/port discovery scanner |
 
-## `~/cve $ cat published-cves.txt`
+## `~/cve $ grep -c "Abhi-Hackz" /var/log/disclosures.log` → `32`
 
-> **18 published CVEs** — credited by Progress Software
+> **32 published CVEs** — assigned by Progress Software and HackerOne as CVE Numbering Authorities · full details with affected versions & fixes at [abhihackz.com/cve](https://abhihackz.com/cve/)
 
 | CVE | Product | Weakness | CVSS | Severity |
 |---|---|---|---|---|
 | [CVE-2026-91140](https://nvd.nist.gov/vuln/detail/CVE-2026-91140) | Autonomous REST Connector GenAI Agents | CWE-78 · OS Command Injection | **9.6** | 🔴 Critical |
 | [CVE-2026-92931](https://nvd.nist.gov/vuln/detail/CVE-2026-92931) | @progress/sitefinity-nextjs-sdk | CWE-918 · SSRF | **8.8** | 🟠 High |
+| [CVE-2026-124687](https://nvd.nist.gov/vuln/detail/CVE-2026-124687) | Kendo UI for jQuery (DropDownButton/SplitButton) | CWE-80 · XSS | **7.1** | 🟠 High |
+| [CVE-2026-124689](https://nvd.nist.gov/vuln/detail/CVE-2026-124689) | Kendo UI for jQuery (ActionSheet) | CWE-79 · XSS | **7.1** | 🟠 High |
+| [CVE-2026-124690](https://nvd.nist.gov/vuln/detail/CVE-2026-124690) | Kendo UI for jQuery (SVG icon sanitizer) | CWE-79 · XSS | **7.1** | 🟠 High |
+| [CVE-2026-124691](https://nvd.nist.gov/vuln/detail/CVE-2026-124691) | Kendo UI for jQuery (Gantt parent dropdown) | CWE-79 · XSS | **7.1** | 🟠 High |
+| [CVE-2026-124692](https://nvd.nist.gov/vuln/detail/CVE-2026-124692) | Kendo UI for jQuery (Grid/TreeList reorder) | CWE-79 · XSS | **7.1** | 🟠 High |
+| [CVE-2026-124693](https://nvd.nist.gov/vuln/detail/CVE-2026-124693) | Kendo UI for jQuery (PivotGrid chips) | CWE-79 · XSS | **7.1** | 🟠 High |
+| [CVE-2026-124694](https://nvd.nist.gov/vuln/detail/CVE-2026-124694) | Kendo UI for jQuery (PropertyGrid) | CWE-79 · XSS | **7.1** | 🟠 High |
+| [CVE-2026-124695](https://nvd.nist.gov/vuln/detail/CVE-2026-124695) | Kendo UI for jQuery (Form item hints) | CWE-79 · XSS | **7.1** | 🟠 High |
+| [CVE-2026-124696](https://nvd.nist.gov/vuln/detail/CVE-2026-124696) | Kendo UI for jQuery (Spreadsheet sheet names) | CWE-79 · XSS | **7.1** | 🟠 High |
+| [CVE-2026-124697](https://nvd.nist.gov/vuln/detail/CVE-2026-124697) | Kendo UI for jQuery (Chart shared tooltip) | CWE-79 · XSS | **7.1** | 🟠 High |
+| [CVE-2026-124698](https://nvd.nist.gov/vuln/detail/CVE-2026-124698) | Kendo UI for jQuery (Chart tooltip point values) | CWE-79 · XSS | **7.1** | 🟠 High |
+| [CVE-2026-118975](https://nvd.nist.gov/vuln/detail/CVE-2026-118975) | Telerik Reporting (SVG processing) | CWE-611 · XXE | 6.5 | 🟡 Medium |
 | [CVE-2026-106138](https://nvd.nist.gov/vuln/detail/CVE-2026-106138) | @progress/kendo-react-charts | CWE-80 · XSS | 5.4 | 🟡 Medium |
 | [CVE-2026-106139](https://nvd.nist.gov/vuln/detail/CVE-2026-106139) | @progress/kendo-vue-charts | CWE-80 · XSS | 5.4 | 🟡 Medium |
 | [CVE-2026-106134](https://nvd.nist.gov/vuln/detail/CVE-2026-106134) | @progress/kendo-react-layout (Menu) | CWE-79 · XSS | 5.4 | 🟡 Medium |
@@ -80,6 +101,8 @@ abhi@hackz:~$ █
 | [CVE-2026-106153](https://nvd.nist.gov/vuln/detail/CVE-2026-106153) | Kendo UI for jQuery | CWE-79 · XSS | 5.4 | 🟡 Medium |
 | [CVE-2026-106160](https://nvd.nist.gov/vuln/detail/CVE-2026-106160) | Kendo UI for jQuery | CWE-1321 · Prototype Pollution | 5.4 | 🟡 Medium |
 | [CVE-2026-106161](https://nvd.nist.gov/vuln/detail/CVE-2026-106161) | Kendo UI for jQuery | CWE-80 · XSS | 5.4 | 🟡 Medium |
+| [CVE-2026-124686](https://nvd.nist.gov/vuln/detail/CVE-2026-124686) | Kendo UI for jQuery (kendo.init) | CWE-95 · Code Injection | 5.4 | 🟡 Medium |
+| [CVE-2026-77168](https://nvd.nist.gov/vuln/detail/CVE-2026-77168) | Revive Adserver | CWE-352 · CSRF | 4.3 | 🟡 Medium |
 
 ## `~/advisories $ cat openmage-ghsa.log`
 
@@ -175,10 +198,15 @@ abhi@hackz:~$ █
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+```console
+root@abhihackz:~# ./audit --target your-startup --mode real-attacker
+[*] Recon complete. Attack surface mapped.
+[*] Proof-of-concept per finding. No noise.
+root@abhihackz:~# logout
+```
 
 **`Find the breach before it finds your startup.`** 🛡️
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:3CE88F,50:0D1F17,100:05070C&section=footer" width="100%" alt="footer" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
