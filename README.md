@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:05070C,50:0D1F17,100:3CE88F&text=ABHI%20HACKZ&fontColor=3CE88F&fontSize=48&fontAlignY=38&desc=Security%20Analyst%20%C2%B7%20VAPT%20Engineer%20%C2%B7%20CVE%20Researcher&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Abhi HackZ banner" />
 
 <!-- Typing intro -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=900&color=3CE88F&center=true&vCenter=true&width=650&lines=Abhishek+Bhaskar+%C2%B7+Abhi+HackZ;Security+Analyst+%26+VAPT+Engineer;Bug+Bounty+Hunter+%C2%B7+CVE+Researcher;32+Published+CVEs+%C2%B7+NASA+Hall+of+Fame;Find+the+breach+before+it+finds+you.)](https://abhihackz.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=900&color=3CE88F&center=true&vCenter=true&width=650&lines=Abhishek+Bhaskar+%C2%B7+Abhi+HackZ;Security+Analyst+%26+VAPT+Engineer;Bug+Bounty+Hunter+%C2%B7+CVE+Researcher;33+Published+CVEs+%C2%B7+Microsoft+MSRC+%C2%B7+NASA+HoF;Find+the+breach+before+it+finds+you.)](https://abhihackz.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abhi-Hackz&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
 ![Focus](https://img.shields.io/badge/FOCUS-OFFENSIVE_SECURITY-3CE88F?style=for-the-badge&labelColor=05070C)
@@ -15,8 +15,8 @@
 
 ```console
 [  OK  ] Initializing offensive-security engine v5.0 ...........
-[  OK  ] Loading 32 published CVEs .............. [Progress · HackerOne CNAs]
-[  OK  ] Mounting /hall-of-fame ................. [NASA · 6× Bugcrowd VDP]
+[  OK  ] Loading 33 published CVEs .............. [Microsoft · Progress · HackerOne CNAs]
+[  OK  ] Mounting /hall-of-fame ................. [Microsoft MSRC · NASA · 6× Bugcrowd VDP]
 [  OK  ] Arming SentryScan · SentryScan Mobile · VAPT Report Builder
 [ WARN ] Unaudited attack surface detected on target. Engagement advised.
 
@@ -24,14 +24,14 @@ root@abhihackz:~# whoami
 Abhishek Nandkumar Bhaskar — alias Abhi HackZ
 → 5+ years breaking web, API, mobile, cloud, network & AI/LLM
 → 1000+ applications & infrastructures secured across 8+ domains
-→ 32 published CVEs (Progress Software & HackerOne CNAs) · 4 OpenMage advisories
+→ 33 published CVEs (Microsoft, Progress Software & HackerOne CNAs) · 4 OpenMage advisories
 → Proof over noise — a finding isn't real until it's demonstrated
 root@abhihackz:~# █
 ```
 
 <div align="center">
 
-**`5+ yrs offensive security`** · **`1000+ apps secured`** · **`32 CVEs`** · **`🔴 1 Critical · 🟠 12 High · 🟡 19 Medium`** · **`6 certifications`**
+**`5+ yrs offensive security`** · **`1000+ apps secured`** · **`33 CVEs`** · **`🔴 1 Critical · 🟠 13 High · 🟡 19 Medium`** · **`6 certifications`**
 
 </div>
 
@@ -65,13 +65,14 @@ root@abhihackz:~# █
 | [`SubSpyder`](https://abhihackz.com/projects/) | Shell | Multi-source subdomain enumeration |
 | [`Network-Scanner-GUI`](https://abhihackz.com/projects/) | Python | Graphical host/port discovery scanner |
 
-## `~/cve $ grep -c "Abhi-Hackz" /var/log/disclosures.log` → `32`
+## `~/cve $ grep -c "Abhi-Hackz" /var/log/disclosures.log` → `33`
 
-> **32 published CVEs** — assigned by Progress Software and HackerOne as CVE Numbering Authorities · full details with affected versions & fixes at [abhihackz.com/cve](https://abhihackz.com/cve/)
+> **33 published CVEs** — assigned by Microsoft, Progress Software and HackerOne as CVE Numbering Authorities · full details with affected versions & fixes at [abhihackz.com/cve](https://abhihackz.com/cve/)
 
 | CVE | Product | Weakness | CVSS | Severity |
 |---|---|---|---|---|
 | [CVE-2026-91140](https://nvd.nist.gov/vuln/detail/CVE-2026-91140) | Autonomous REST Connector GenAI Agents | CWE-78 · OS Command Injection | **9.6** | 🔴 Critical |
+| [CVE-2026-119975](https://nvd.nist.gov/vuln/detail/CVE-2026-119975) | Microsoft Visual Studio Code | CWE-79 · XSS → Remote Code Execution | **8.8** | 🟠 High |
 | [CVE-2026-92931](https://nvd.nist.gov/vuln/detail/CVE-2026-92931) | @progress/sitefinity-nextjs-sdk | CWE-918 · SSRF | **8.8** | 🟠 High |
 | [CVE-2026-124687](https://nvd.nist.gov/vuln/detail/CVE-2026-124687) | Kendo UI for jQuery (DropDownButton/SplitButton) | CWE-80 · XSS | **7.1** | 🟠 High |
 | [CVE-2026-124689](https://nvd.nist.gov/vuln/detail/CVE-2026-124689) | Kendo UI for jQuery (ActionSheet) | CWE-79 · XSS | **7.1** | 🟠 High |
@@ -126,6 +127,8 @@ root@abhihackz:~# █
 
 | Organization | Recognition |
 |---|---|
+| 🛡️ **Microsoft MSRC** | [Acknowledgements](https://msrc.microsoft.com/update-guide/acknowledgement/cve) · Nov 2026 — CVE-2026-119975, Visual Studio Code RCE |
+| 🛡️ **Microsoft Researcher Recognition Program** | [Special Mentions](https://msrc.microsoft.com/special-mention) · 2027 cycle (Jul ’26 – Jun ’27) |
 | 🚀 **NASA** | Hall of Fame · 2026 — responsible vulnerability disclosure in a production system |
 | 🏆 **Nojoto** | Hall of Fame |
 | 🏆 **RepAutomate** | Hall of Fame |
