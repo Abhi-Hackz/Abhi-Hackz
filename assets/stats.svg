@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-label="33 published CVEs: 1 critical, 13 high, 19 medium. 4 security advisories. 11 Hall of Fame recognitions. 6 certifications.">
+<title>Disclosure metrics</title>
+<rect x="1" y="1" width="998" height="248" rx="14" fill="#070B10" stroke="#1C2733" stroke-width="1.5"/>
+<text x="32" y="40" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#4A5868" letter-spacing="2">DISCLOSURE METRICS</text>
+<text x="968" y="40" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#4A5868">CNAs: Microsoft · Progress Software · HackerOne</text>
+<g opacity="0"><rect x="32.0" y="58" width="222.0" height="86" rx="10" fill="#0B1118" stroke="#1C2733"/>
+  <rect x="32.0" y="58" width="3" height="86" rx="1.5" fill="#3CE88F"/>
+  <text x="54.0" y="104" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="34" font-weight="700" fill="#3CE88F">33</text>
+  <text x="54.0" y="128" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#8B98A9">Published CVEs</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.00s" fill="freeze"/></g>
+<g opacity="0"><rect x="270.0" y="58" width="222.0" height="86" rx="10" fill="#0B1118" stroke="#1C2733"/>
+  <rect x="270.0" y="58" width="3" height="86" rx="1.5" fill="#27C6DC"/>
+  <text x="292.0" y="104" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="34" font-weight="700" fill="#27C6DC">4</text>
+  <text x="292.0" y="128" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#8B98A9">Security advisories</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.15s" fill="freeze"/></g>
+<g opacity="0"><rect x="508.0" y="58" width="222.0" height="86" rx="10" fill="#0B1118" stroke="#1C2733"/>
+  <rect x="508.0" y="58" width="3" height="86" rx="1.5" fill="#FFD24D"/>
+  <text x="530.0" y="104" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="34" font-weight="700" fill="#FFD24D">11</text>
+  <text x="530.0" y="128" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#8B98A9">Halls of Fame &amp; acks</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.30s" fill="freeze"/></g>
+<g opacity="0"><rect x="746.0" y="58" width="222.0" height="86" rx="10" fill="#0B1118" stroke="#1C2733"/>
+  <rect x="746.0" y="58" width="3" height="86" rx="1.5" fill="#3CE88F"/>
+  <text x="768.0" y="104" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="34" font-weight="700" fill="#3CE88F">6</text>
+  <text x="768.0" y="128" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#8B98A9">Certifications</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.45s" fill="freeze"/></g>
+<text x="32" y="174" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#8B98A9">CVE severity distribution</text>
+<rect x="32" y="186" width="936" height="12" rx="6" fill="#0B1118" stroke="#1C2733"/>
+<clipPath id="barc"><rect x="32" y="186" width="936" height="12" rx="6"/></clipPath><g clip-path="url(#barc)">
+<rect x="32.0" y="186" width="0" height="12" fill="#FF4D5E">
+    <animate attributeName="width" from="0" to="26.4" dur=".7s" begin="0.60s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+<rect x="60.4" y="186" width="0" height="12" fill="#FF9F43">
+    <animate attributeName="width" from="0" to="366.7" dur=".7s" begin="1.10s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+<rect x="429.1" y="186" width="0" height="12" fill="#FFD24D">
+    <animate attributeName="width" from="0" to="536.9" dur=".7s" begin="1.60s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+</g>
+<text x="32" y="226" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12.5" fill="#E7EDF5"><tspan fill="#FF4D5E">■</tspan> Critical 1   <tspan fill="#FF9F43">■</tspan> High 13   <tspan fill="#FFD24D">■</tspan> Medium 19</text>
+<text x="968" y="226" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12.5" fill="#8B98A9">highest CVSS <tspan fill="#FF4D5E" font-weight="700">9.6</tspan> · OS command injection</text>
+</svg>

@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="380" viewBox="0 0 1000 380" role="img" aria-label="Abhishek Bhaskar — Abhi HackZ — Security Analyst, VAPT Engineer, CVE Researcher">
+<title>Abhi HackZ — Security Analyst · VAPT Engineer · CVE Researcher</title>
+<defs>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M24 0H0V24" fill="none" stroke="#3CE88F" stroke-opacity=".05"/>
+  </pattern>
+  <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#3CE88F" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#3CE88F" stop-opacity=".07"/>
+    <stop offset="1" stop-color="#3CE88F" stop-opacity="0"/>
+  </linearGradient>
+  <radialGradient id="sweep" cx="0" cy="0" r="1">
+    <stop offset="0" stop-color="#3CE88F" stop-opacity=".45"/>
+    <stop offset="1" stop-color="#3CE88F" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <clipPath id="win"><rect x="1" y="1" width="998" height="378" rx="14"/></clipPath>
+</defs>
+<rect x="1" y="1" width="998" height="378" rx="14" fill="#070B10" stroke="#1C2733" stroke-width="1.5"/>
+<g clip-path="url(#win)">
+  <rect width="1000" height="380" fill="url(#grid)"/>
+  <rect x="0" y="-120" width="1000" height="120" fill="url(#scan)">
+    <animate attributeName="y" values="-120;380" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <!-- title bar -->
+  <rect width="1000" height="38" fill="#0B1118"/>
+  <line x1="0" y1="38" x2="1000" y2="38" stroke="#1C2733"/>
+  <circle cx="22" cy="19" r="6" fill="#FF5F57"/><circle cx="42" cy="19" r="6" fill="#FEBC2E"/><circle cx="62" cy="19" r="6" fill="#28C840"/>
+  <text x="500.0" y="24" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="13" fill="#8B98A9">abhi@hackz: ~/engagements — zsh</text>
+  <circle cx="908" cy="19" r="4" fill="#3CE88F"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+  <text x="918" y="23" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" fill="#3CE88F" letter-spacing="1">SECURE</text>
+
+<g transform="translate(830 214)">
+<circle r="118.0" fill="none" stroke="#3CE88F" stroke-opacity="0.18"/>
+<circle r="85.0" fill="none" stroke="#3CE88F" stroke-opacity="0.1"/>
+<circle r="51.9" fill="none" stroke="#3CE88F" stroke-opacity="0.1"/>
+<circle r="21.2" fill="none" stroke="#3CE88F" stroke-opacity="0.1"/>
+<line x1="0" y1="0" x2="118.0" y2="0.0" stroke="#3CE88F" stroke-opacity=".05"/>
+<line x1="0" y1="0" x2="102.2" y2="59.0" stroke="#3CE88F" stroke-opacity=".05"/>
+<line x1="0" y1="0" x2="59.0" y2="102.2" stroke="#3CE88F" stroke-opacity=".05"/>
+<line x1="0" y1="0" x2="0.0" y2="118.0" stroke="#3CE88F" stroke-opacity=".05"/>
+<line x1="0" y1="0" x2="-59.0" y2="102.2" stroke="#3CE88F" stroke-opacity=".05"/>
+<line x1="0" y1="0" x2="-102.2" y2="59.0" stroke="#3CE88F" stroke-opacity=".05"/>
+<line x1="0" y1="0" x2="-118.0" y2="0.0" stroke="#3CE88F" stroke-opacity=".05"/>
+<line x1="0" y1="0" x2="-102.2" y2="-59.0" stroke="#3CE88F" stroke-opacity=".05"/>
+<line x1="0" y1="0" x2="-59.0" y2="-102.2" stroke="#3CE88F" stroke-opacity=".05"/>
+<line x1="0" y1="0" x2="-0.0" y2="-118.0" stroke="#3CE88F" stroke-opacity=".05"/>
+<line x1="0" y1="0" x2="59.0" y2="-102.2" stroke="#3CE88F" stroke-opacity=".05"/>
+<line x1="0" y1="0" x2="102.2" y2="-59.0" stroke="#3CE88F" stroke-opacity=".05"/>
+<line x1="112.0" y1="0.0" x2="118.0" y2="0.0" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="114.4" y1="12.0" x2="117.4" y2="12.3" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="112.5" y1="23.9" x2="115.4" y2="24.5" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="109.4" y1="35.5" x2="112.2" y2="36.5" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="105.1" y1="46.8" x2="107.8" y2="48.0" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="97.0" y1="56.0" x2="102.2" y2="59.0" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="93.0" y1="67.6" x2="95.5" y2="69.4" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="85.5" y1="77.0" x2="87.7" y2="79.0" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="77.0" y1="85.5" x2="79.0" y2="87.7" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="67.6" y1="93.0" x2="69.4" y2="95.5" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="56.0" y1="97.0" x2="59.0" y2="102.2" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="46.8" y1="105.1" x2="48.0" y2="107.8" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="35.5" y1="109.4" x2="36.5" y2="112.2" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="23.9" y1="112.5" x2="24.5" y2="115.4" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="12.0" y1="114.4" x2="12.3" y2="117.4" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="0.0" y1="112.0" x2="0.0" y2="118.0" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-12.0" y1="114.4" x2="-12.3" y2="117.4" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-23.9" y1="112.5" x2="-24.5" y2="115.4" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-35.5" y1="109.4" x2="-36.5" y2="112.2" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-46.8" y1="105.1" x2="-48.0" y2="107.8" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-56.0" y1="97.0" x2="-59.0" y2="102.2" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-67.6" y1="93.0" x2="-69.4" y2="95.5" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-77.0" y1="85.5" x2="-79.0" y2="87.7" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-85.5" y1="77.0" x2="-87.7" y2="79.0" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-93.0" y1="67.6" x2="-95.5" y2="69.4" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-97.0" y1="56.0" x2="-102.2" y2="59.0" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-105.1" y1="46.8" x2="-107.8" y2="48.0" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-109.4" y1="35.5" x2="-112.2" y2="36.5" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-112.5" y1="23.9" x2="-115.4" y2="24.5" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-114.4" y1="12.0" x2="-117.4" y2="12.3" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-112.0" y1="0.0" x2="-118.0" y2="0.0" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-114.4" y1="-12.0" x2="-117.4" y2="-12.3" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-112.5" y1="-23.9" x2="-115.4" y2="-24.5" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-109.4" y1="-35.5" x2="-112.2" y2="-36.5" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-105.1" y1="-46.8" x2="-107.8" y2="-48.0" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-97.0" y1="-56.0" x2="-102.2" y2="-59.0" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-93.0" y1="-67.6" x2="-95.5" y2="-69.4" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-85.5" y1="-77.0" x2="-87.7" y2="-79.0" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-77.0" y1="-85.5" x2="-79.0" y2="-87.7" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-67.6" y1="-93.0" x2="-69.4" y2="-95.5" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-56.0" y1="-97.0" x2="-59.0" y2="-102.2" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-46.8" y1="-105.1" x2="-48.0" y2="-107.8" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-35.5" y1="-109.4" x2="-36.5" y2="-112.2" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-23.9" y1="-112.5" x2="-24.5" y2="-115.4" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-12.0" y1="-114.4" x2="-12.3" y2="-117.4" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="-0.0" y1="-112.0" x2="-0.0" y2="-118.0" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="12.0" y1="-114.4" x2="12.3" y2="-117.4" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="23.9" y1="-112.5" x2="24.5" y2="-115.4" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="35.5" y1="-109.4" x2="36.5" y2="-112.2" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="46.8" y1="-105.1" x2="48.0" y2="-107.8" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="56.0" y1="-97.0" x2="59.0" y2="-102.2" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="67.6" y1="-93.0" x2="69.4" y2="-95.5" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="77.0" y1="-85.5" x2="79.0" y2="-87.7" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="85.5" y1="-77.0" x2="87.7" y2="-79.0" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="93.0" y1="-67.6" x2="95.5" y2="-69.4" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="97.0" y1="-56.0" x2="102.2" y2="-59.0" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="105.1" y1="-46.8" x2="107.8" y2="-48.0" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="109.4" y1="-35.5" x2="112.2" y2="-36.5" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="112.5" y1="-23.9" x2="115.4" y2="-24.5" stroke="#3CE88F" stroke-opacity=".35"/>
+<line x1="114.4" y1="-12.0" x2="117.4" y2="-12.3" stroke="#3CE88F" stroke-opacity=".35"/>
+<g><path d="M0 0 L118 0 A118 118 0 0 0 90.4 -75.8 Z" fill="url(#sweep)" transform="scale(1)"/>
+      <line x1="0" y1="0" x2="118" y2="0" stroke="#3CE88F" stroke-width="1.5" stroke-opacity=".9"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/></g>
+<g opacity="0"><circle cx="59.9" cy="42.0" r="3.5" fill="#FF4D5E"/>
+          <circle cx="59.9" cy="42.0" r="3.5" fill="none" stroke="#FF4D5E"><animate attributeName="r" values="3.5;12" dur="1.2s" begin="0.39s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0" dur="1.2s" begin="0.39s" repeatCount="indefinite"/></circle>
+          <text x="67.9" y="36.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#FF4D5E">CVE</text>
+          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.05;.6;1" dur="4s" begin="0.39s" repeatCount="indefinite"/></g>
+<g opacity="0"><circle cx="-19.9" cy="42.8" r="3.5" fill="#FFD24D"/>
+          <circle cx="-19.9" cy="42.8" r="3.5" fill="none" stroke="#FFD24D"><animate attributeName="r" values="3.5;12" dur="1.2s" begin="1.28s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0" dur="1.2s" begin="1.28s" repeatCount="indefinite"/></circle>
+          <text x="-11.9" y="36.8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#FFD24D">XSS</text>
+          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.05;.6;1" dur="4s" begin="1.28s" repeatCount="indefinite"/></g>
+<g opacity="0"><circle cx="-86.5" cy="-31.5" r="3.5" fill="#FF9F43"/>
+          <circle cx="-86.5" cy="-31.5" r="3.5" fill="none" stroke="#FF9F43"><animate attributeName="r" values="3.5;12" dur="1.2s" begin="2.22s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0" dur="1.2s" begin="2.22s" repeatCount="indefinite"/></circle>
+          <text x="-78.5" y="-37.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#FF9F43">SSRF</text>
+          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.05;.6;1" dur="4s" begin="2.22s" repeatCount="indefinite"/></g>
+<g opacity="0"><circle cx="22.2" cy="-61.0" r="3.5" fill="#FF4D5E"/>
+          <circle cx="22.2" cy="-61.0" r="3.5" fill="none" stroke="#FF4D5E"><animate attributeName="r" values="3.5;12" dur="1.2s" begin="3.22s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0" dur="1.2s" begin="3.22s" repeatCount="indefinite"/></circle>
+          <text x="30.2" y="-67.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#FF4D5E">RCE</text>
+          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.05;.6;1" dur="4s" begin="3.22s" repeatCount="indefinite"/></g>
+<g opacity="0"><circle cx="-10.1" cy="-27.7" r="3.5" fill="#FFD24D"/>
+          <circle cx="-10.1" cy="-27.7" r="3.5" fill="none" stroke="#FFD24D"><animate attributeName="r" values="3.5;12" dur="1.2s" begin="2.78s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0" dur="1.2s" begin="2.78s" repeatCount="indefinite"/></circle>
+          <text x="-2.1" y="-33.7" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#FFD24D">IDOR</text>
+          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.05;.6;1" dur="4s" begin="2.78s" repeatCount="indefinite"/></g>
+<circle r="3" fill="#3CE88F"/></g>
+<text x="830" y="358" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" fill="#4A5868" letter-spacing="2">ATTACK SURFACE MONITOR</text>
+<g opacity="0"><text x="34" y="70" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="14" fill="#27C6DC">┌──(<tspan fill="#3CE88F">abhi㉿hackz</tspan>)-[<tspan fill="#E7EDF5">~</tspan>]</text><text x="34" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="14" fill="#27C6DC">└─<tspan fill="#3CE88F">$</tspan></text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.40s" fill="freeze"/></g>
+  <clipPath id="c79963465"><rect x="68" y="74" height="21.0" width="0">
+    <animate attributeName="width" values="0.0;8.4;16.8;25.2;33.6;42.0;50.4" dur="0.21s" begin="0.75s" fill="freeze" calcMode="discrete"/>
+  </rect></clipPath>
+  <text x="68" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="14" font-weight="400" fill="#E7EDF5"
+        textLength="50.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c79963465)" >whoami</text>
+
+  <clipPath id="c62673867"><rect x="34" y="102" height="57.0" width="0">
+    <animate attributeName="width" values="0.0;22.8;45.6;68.4;91.2;114.0;136.8;159.6;182.4;205.2;228.0;250.8;273.6;296.4;319.2;342.0;364.8" dur="0.73s" begin="1.31s" fill="freeze" calcMode="discrete"/>
+  </rect></clipPath>
+  <text x="34" y="140" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="38" font-weight="700" fill="#3CE88F"
+        textLength="364.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c62673867)" filter="url(#glow)">ABHISHEK BHASKAR</text>
+<g opacity="0"><text x="34" y="168" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="15" fill="#8B98A9">aka <tspan fill="#FFD24D">Abhi HackZ</tspan> · Security Analyst · VAPT Engineer · CVE Researcher</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.04s" fill="freeze"/></g>
+<g opacity="0"><text x="34" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="14" fill="#27C6DC">┌──(<tspan fill="#3CE88F">abhi㉿hackz</tspan>)-[<tspan fill="#E7EDF5">~</tspan>]</text><text x="34" y="222" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="14" fill="#27C6DC">└─<tspan fill="#3CE88F">$</tspan></text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="2.64s" fill="freeze"/></g>
+  <clipPath id="c76692648"><rect x="68" y="208" height="21.0" width="0">
+    <animate attributeName="width" values="0.0;8.4;16.8;25.2;33.6;42.0;50.4;58.8;67.2;75.6;84.0;92.4;100.8;109.2;117.6;126.0;134.4;142.8;151.2;159.6;168.0;176.4;184.8;193.2" dur="0.82s" begin="2.99s" fill="freeze" calcMode="discrete"/>
+  </rect></clipPath>
+  <text x="68" y="222" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="14" font-weight="400" fill="#E7EDF5"
+        textLength="193.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c76692648)" >cat ./recon/summary.txt</text>
+<g opacity="0"><text x="34" y="256" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="20" font-weight="700" fill="#3CE88F">33</text><text x="34" y="274" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#8B98A9">published CVEs</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="4.11s" fill="freeze"/></g>
+<g opacity="0"><text x="224" y="256" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="20" font-weight="700" fill="#27C6DC">MSRC</text><text x="224" y="274" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#8B98A9">+ NASA Hall of Fame</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="4.36s" fill="freeze"/></g>
+<g opacity="0"><text x="414" y="256" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="20" font-weight="700" fill="#FFD24D">1000+</text><text x="414" y="274" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#8B98A9">apps secured</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="4.61s" fill="freeze"/></g>
+<g opacity="0"><text x="34" y="308" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="14" fill="#27C6DC">┌──(<tspan fill="#3CE88F">abhi㉿hackz</tspan>)-[<tspan fill="#E7EDF5">~</tspan>]</text><text x="34" y="326" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="14" fill="#27C6DC">└─<tspan fill="#3CE88F">$</tspan></text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="4.76s" fill="freeze"/></g>
+  <clipPath id="c60784177"><rect x="68" y="312" height="21.0" width="0">
+    <animate attributeName="width" values="0.0" dur="0.05s" begin="5.11s" fill="freeze" calcMode="discrete"/>
+  </rect></clipPath>
+  <text x="68" y="326" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="14" font-weight="400" fill="#E7EDF5"
+        textLength="0.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c60784177)" ></text>
+
+  <clipPath id="c80943855"><rect x="68" y="312" height="21.0" width="0">
+    <animate attributeName="width" values="0.0;8.4;16.8;25.2;33.6;42.0;50.4;58.8;67.2;75.6;84.0;92.4;100.8;109.2;117.6;126.0;134.4;142.8;151.2;159.6;168.0;176.4;184.8;193.2;201.6;210.0;218.4;226.8;235.2;243.6" dur="1.04s" begin="5.36s" fill="freeze" calcMode="discrete"/>
+  </rect></clipPath>
+  <text x="68" y="326" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="14" font-weight="400" fill="#FFD24D"
+        textLength="243.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#c80943855)" >./engage --mode real-attacker</text>
+<rect x="315.6" y="314" width="9" height="16" fill="#3CE88F" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.01;.5;.51;1" dur="1s" begin="6.40s" repeatCount="indefinite"/></rect>
+<g opacity="0"><text x="34" y="356" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#4A5868">// find the breach before it finds you.</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="6.70s" fill="freeze"/></g>
+</g></svg>
